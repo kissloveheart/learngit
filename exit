@@ -1,0 +1,77 @@
+[33mcommit ada57bb43e2d9da97ea11476031100888525b581[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: thaibm <thaibm.uet@gmail.com>
+Date:   Thu Nov 25 22:42:24 2021 +0700
+
+    Update chapter 07
+
+[33mcommit 05d50a98fbf1946a7e2dc513ec587b9eeb235c03[m
+Author: thaibm <thaibm.uet@gmail.com>
+Date:   Thu Nov 25 19:06:27 2021 +0700
+
+    Update readme
+
+[33mcommit 4ddac2436bd552aa02c2d7f0adfe721442209b10[m
+Author: thaibm <thaibm.uet@gmail.com>
+Date:   Thu Nov 25 19:03:29 2021 +0700
+
+    Add page link
+
+[33mcommit 4066ff31c11d9d81183239fba759de17a6f501fc[m
+Author: thaibm <thaibm.uet@gmail.com>
+Date:   Thu Nov 25 19:01:50 2021 +0700
+
+    Update link on readme
+
+[33mcommit 32b85af3647af55d0ed95e894fd73402501f9132[m[33m ([m[1;31morigin/gh-pages[m[33m)[m
+Author: Thai Bui Minh <thaibm.uet@gmail.com>
+Date:   Thu Nov 25 18:51:07 2021 +0700
+
+    Update index.md
+
+[33mcommit 69ace84c77fe62c3fe2d237c17ba1eeda6cbb717[m
+Author: Thai Bui Minh <thaibm.uet@gmail.com>
+Date:   Thu Nov 25 18:50:42 2021 +0700
+
+    Set theme jekyll-theme-cayman
+
+[33mcommit e53973e3c2b36e4b1b1d28de8ac27621a7d992c3[m
+Author: thaibm <thaibm.uet@gmail.com>
+Date:   Thu Nov 25 18:49:39 2021 +0700
+
+    Update chapter 05 and 06
+
+[33mcommit 93ef327113cd4570cac939d42f780599ad6a964d[m
+Author: thaibm <thaibm.uet@gmail.com>
+Date:   Thu Nov 25 10:46:06 2021 +0700
+
+    Update table of content for chapter 04
+
+[33mcommit b5016d80876d59c5f4316b8c95f0fc2743380960[m
+Author: thaibm <thaibm.uet@gmail.com>
+Date:   Tue Nov 23 21:41:12 2021 +0700
+
+    Update table of content for chapter 04
+
+[33mcommit 4c9cbce723a05d363439c2bcdc1ec64b252b8a72[m
+Author: thaibm <thaibm.uet@gmail.com>
+Date:   Sun Nov 21 16:19:52 2021 +0700
+
+    Initial git flow and table of content for chapter 04
+
+[33mcommit 5c8fe73d3b16e11475551e62339eb0d9439957bb[m
+Author: thaibm <thaibm.uet@gmail.com>
+Date:   Sun Nov 21 15:52:13 2021 +0700
+
+    Finish chapter 01. Init table of content for chapter 02, 03
+
+[33mcommit f247306244fe5af7121c3a38410b7128fac18e0a[m
+Author: thaibm <thaibm.uet@gmail.com>
+Date:   Tue Sep 7 19:08:56 2021 +0700
+
+    Initial table of content
+
+[33mcommit f47eeb94f679ebb81a2a9d9a89e3df7605cc8305[m
+Author: Thai Bui Minh <thaibm.uet@gmail.com>
+Date:   Sat Aug 28 16:45:30 2021 +0700
+
+    Initial commit
